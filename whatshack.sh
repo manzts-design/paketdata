@@ -4,7 +4,7 @@ echo "
 <-- IndoSec -->
 ####################
 #   Whatsapp Code  # By ./C3W3KBerB4T4n9
-#     Exploiter    # ceweberbatang59@gmail.com
+#     Exploiter    # lukman.manzts@gmail.com
 ####################
 
 Copyright (c) 2018 ceweberbatang Ganteng";
