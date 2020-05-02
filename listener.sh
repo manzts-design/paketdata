@@ -4,7 +4,7 @@ echo "
 <-- IndoSec -->
 ####################
 # Whatsapp Exploit # By ./C3W3KBerB4T4n9
-#   Log Listener   # ceweberbatang59@gmail.com
+#   Log Listener   # lukman.manzts@gmail.com
 ####################
 
 Copyright (c) 2018 ceweberbatang ganz";
